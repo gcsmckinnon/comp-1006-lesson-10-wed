@@ -12,6 +12,7 @@
 
   <body class="home">
     <!-- Include notifications -->
+    <?php include_once('notification.php') ?>
     
     <div class="jumbotron">
       <header>
